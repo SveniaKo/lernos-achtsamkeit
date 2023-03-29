@@ -1,6 +1,6 @@
 
 
-## Autoren
+## Authors
 
 Der lernOS-Leitfaden ”Achtsamkeit 4.2 - Dein Weg ist das Ziel” wurde in
 der Version 1.0 erarbeitet von
